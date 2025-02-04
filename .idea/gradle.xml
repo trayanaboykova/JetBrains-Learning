@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Circling in on clarity with PI precision" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Javadoc comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/The result of a Tic-Tac-Toe game" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Complete the user greeting program" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Creating a user name input and greeting message program" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Greet user with their name and age" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Rectangle whisperer's precision quest" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Repeater" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments (1)" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Brewing up a digital bean counter" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Declaring and printing different variable types" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Forge your digital destiny" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Cats are robots" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Complete the code for a greeting and year display" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Complete the code to print different data types" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/From Declaration to Display" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Hello, Java" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
